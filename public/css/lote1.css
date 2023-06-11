@@ -4,3 +4,33 @@
     box-shadow: 10px 0px 4px 4px rgba(0, 0, 0, 0.11);
 }
 
+.input {
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    border: 1px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.titulo1 {
+    font-size:x-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+}
+
+.btnBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    font-size:medium;
+    font-weight: 500;   
+    color:white;
+    display: inline;
+}
